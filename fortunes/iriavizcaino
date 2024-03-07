@@ -1,6 +1,6 @@
-cd -  -> previous directory
+If you want to go to the previous directory use *cd -*
 %
-Update code -> git fetch or git pull
+For update code use *git fetch* or *git pull*
 %
-First time you want to edit \opt  sudo chrowm -R $USER
+First time you want to edit \opt  *sudo chrowm -R $USER*
 %
