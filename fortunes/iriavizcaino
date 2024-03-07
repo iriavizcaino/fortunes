@@ -4,3 +4,5 @@ For update code use *git fetch* or *git pull*
 %
 First time you want to edit \opt  *sudo chrowm -R $USER*
 %
+*git reset HEAD^ --soft* delete the last commit without losing changes
+%
